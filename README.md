@@ -9,7 +9,7 @@ The total rides, total drivers, total fares, average fare per ride and driver, a
 
 ![image](https://user-images.githubusercontent.com/5934390/124008111-1383bb00-d9aa-11eb-91a3-fff8cc086367.png)
 
-Urban locations make up the highest percentage of the data, followed by suburban and then rural as the lowest. One example of these differences in ride-sharing data among the different city types is illustrated in the below graph of total fares by city type:
+Urban locations make up the highest percentage of the total rides and fares, followed by suburban and then rural as the lowest. One example of these differences in ride-sharing data among the different city types is illustrated in the below graph of total fares by city type:
 
 ![image](https://user-images.githubusercontent.com/5934390/124008388-5e053780-d9aa-11eb-911c-a83a7887247d.png)
 
