@@ -14,6 +14,6 @@ Urban locations make up the highest percentage of the total rides and fares, fol
 ![image](https://user-images.githubusercontent.com/5934390/124008388-5e053780-d9aa-11eb-911c-a83a7887247d.png)
 
 ## Summary
-1. Market more in rural areas, which have the lowest number of rides but the highest average fair.
+1. Market more in rural areas, which have the lowest number of rides but the highest average fairs.
 2. Hire more drivers in rural and suburban areas and less in urban areas to match demand.
 3. Despite having the highest number of rides, Urban areas have the lowest average fair (most likely due to distance). Consider adding a surcharge for shorter rides.
