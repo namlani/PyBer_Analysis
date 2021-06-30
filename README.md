@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the analysis
-Created a summary DataFrame of the ride-sharing data by city type and, using Pandas and Matplotlib, created a multiple-line graph that shows the total weekly fares for each city type in order to summarize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+Created a summary DataFrame of the provided ride-sharing data by city type and, using Pandas and Matplotlib, created a multiple-line graph that shows the total weekly fares for each city type in order to summarize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
 
