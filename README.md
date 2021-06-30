@@ -5,7 +5,7 @@ Created a summary DataFrame of the provided ride-sharing data by city type and, 
 
 ## Results
 
-The total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type are show below:
+The total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type are shown below:
 
 ![image](https://user-images.githubusercontent.com/5934390/124008111-1383bb00-d9aa-11eb-91a3-fff8cc086367.png)
 
