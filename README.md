@@ -15,5 +15,5 @@ Urban locations make up the highest percentage of the data, followed by suburban
 
 ## Summary
 1. Market more in rural areas, which have the lowest number of rides but the highest average fair.
-2. Hire more drivers in rural and suburban areas and less in urban areas to meet demand.
+2. Hire more drivers in rural and suburban areas and less in urban areas to match demand.
 3. Despite having the highest number of rides, Urban areas have the lowest average fair (most likely due to distance). Consider adding a surcharge for shorter rides.
